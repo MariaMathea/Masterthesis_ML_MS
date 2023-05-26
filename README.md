@@ -21,9 +21,9 @@ The code in this repository is organized into the following six folders:
 ## Requirements
 To run the code in this repository, the following software and libraries are required:
 
-MATLAB (version R2022a or higher)
-Python (version 3.8.10 or higher)
-Python libraries:
+MATLAB (version R2022a or higher)\
+Python (version 3.8.10 or higher)\
+Python libraries:\
 [List the required Python libraries along with their versions]
 
 
