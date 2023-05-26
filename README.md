@@ -61,9 +61,8 @@ Clone this repository to your local machine using the following command:
 git clone https://github.com/MariaMathea/Masterthesis_ML_MS.git
 ```
 
-Install the required dependencies mentioned in the Requirements section.
 
-**Explore the different folders based on your requirements:**
+Explore the different folders based on your requirements:
 
 **MATLAB scripts:** Execute the MATLAB scripts using MATLAB software.\
 **Validation Pipeline:** Run the validation pipeline by executing the relevant cells in the script.\
