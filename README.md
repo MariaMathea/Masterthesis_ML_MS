@@ -48,7 +48,7 @@ Python (version 3.8.10 or higher)
 * torchmetrics (v0.11.0)
 * torchvision (v0.14.0)
 
-The training of the U-Net should preferably be run on a **GPU** for less training.\
+The training of the U-Net should preferably be run on a **GPU** for less training time.\
 For this project the code was run on the GPU: Alienware Nvidia 1080 GTX
 
 
