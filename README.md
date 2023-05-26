@@ -21,7 +21,8 @@ The code in this repository is organized into the following six folders:
 
 **Visualizations:** The Visualizations folder contains code related to visualizing the data or results of the project. This includes scripts for generating the segmentation overlap plots, barplots and lineplots present in the Results section of the thesis.
 
-**U-Net:** The U-Net folder contains the implementation of the U-Net model. This deep learning architecture is accessed through the fastMONAI deep learning library. The code is built upon the "Binary Semantic Segmentation" tutorial from the fastMONAI website: https://fastmonai.no/tutorial_binary_segmentation.html.\ The notebook goes through the steps of loading the data correctly, adding data augmentations, choosing learning rate, training and inference
+**U-Net:** The U-Net folder contains the implementation of the U-Net model. This deep learning architecture is accessed through the fastMONAI deep learning library. The code is built upon the "Binary Semantic Segmentation" tutorial from the fastMONAI website: https://fastmonai.no/tutorial_binary_segmentation.html.  
+The notebook goes through the steps of loading the data correctly, adding data augmentations, choosing learning rate, training and inference
 
 **nnU-Net Utils:** The nnU-Net Utils folder contains utility functions and scripts related to the nnU-Net framework. This framework is utilized for converting the project dataset into the correct format before training the nnU-Net, and to convert the output from inference into NIfTY images.
 
