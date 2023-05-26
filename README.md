@@ -1,7 +1,13 @@
-# Masters thesis
+# Master's Thesis Repository
 A repository containing the code made during my master's thesis project titled "Machine Learning in Automated Segmentation of Small Lesions in Magnetic Resonance Imaging for Multiple Sclerosis". The project involves using different machine learning approaches to automatically segment small multiple sclerosis lesions. Most of the models used during the project have their own repositories/download requirements and have not been influenced by me in any way.
 
 The code residing in this repository is mostly functions that have been made for tasks performed before or after aquiring the model segmentations. The only exeption to this is the code made for the U-Net, and the nnU-Net utils that contain multiple functions that had to be used on the project dataset for it to be in the correct format for the nnU-Net to run, as well as aquire the probability maps.
+
+## Table of Contents
+- [Repository Structure](#repository-structure)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Contact](#contact)
 
 
 ## Repository Structure
@@ -41,12 +47,12 @@ Install the required dependencies mentioned in the Requirements section.
 
 Explore the different folders based on your requirements:
 
-MATLAB scripts: Execute the MATLAB scripts using MATLAB software.
-Validation Pipeline: Run the validation pipeline by executing the relevant script.
-Testing Pipeline: Run the testing pipeline by executing the relevant script.
-Visualizations: Execute the visualization scripts to generate visual representations.
-U-Net: Utilize the U-Net implementation for [provide instructions or examples on how to use the U-Net model].
-nnU-Net Utils: Use the utility functions and scripts provided to enhance your nnU-Net workflows.
+MATLAB scripts: Execute the MATLAB scripts using MATLAB software.\
+Validation Pipeline: Run the validation pipeline by executing the relevant script.\
+Testing Pipeline: Run the testing pipeline by executing the relevant script.\
+Visualizations: Execute the visualization scripts to generate visual representations.\
+U-Net: Utilize the U-Net implementation for [provide instructions or examples on how to use the U-Net model].\
+nnU-Net Utils: Use the utility functions and scripts provided to enhance your nnU-Net workflows.\
 Make sure to adjust any necessary configurations or parameters in the code files to suit your specific requirements.
 
 
