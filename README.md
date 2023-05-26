@@ -33,7 +33,7 @@ To run the code in this repository, the following software and libraries are req
 MATLAB (version R2022a or higher)\
 Python (version 3.8.10 or higher)
 
-**Python libraries:**\
+**Python libraries:**
 * fastAI (v2.7.10)
 * fastMONAI (v0.3.0)
 * jupyter (v1.0.0)
@@ -60,18 +60,19 @@ Clone this repository to your local machine using the following command:
 bash
 Copy code
 git clone https://github.com/MariaMathea/Masterthesis_ML_MS.git
+
 Install the required dependencies mentioned in the Requirements section.
 
-Explore the different folders based on your requirements:
+**Explore the different folders based on your requirements:**
 
 **MATLAB scripts:** Execute the MATLAB scripts using MATLAB software.\
-**Validation Pipeline:** Run the validation pipeline by executing the relevant script.\
-**Testing Pipeline:** Run the testing pipeline by executing the relevant script.\
-**Visualizations:** Execute the visualization scripts to generate visual representations.\
-**U-Net:** Utilize the U-Net implementation for [provide instructions or examples on how to use the U-Net model].\
-**nnU-Net Utils:** Use the utility functions and scripts provided to enhance your nnU-Net workflows.
+**Validation Pipeline:** Run the validation pipeline by executing the relevant cells in the script.\
+**Testing Pipeline:** Run the testing pipeline by executing the relevant cells in the script.\
+**Visualizations:** Execute the relevant cells to generate visual representations.\
+**U-Net:** Utilize the U-Net implementation for training a segmentation model and performing inference.\
+**nnU-Net Utils:** Use the utility functions and scripts provided to convert dataset to correct format before nnU-Net training/testing.
 
-Make sure to adjust any necessary configurations or parameters in the code files to suit your specific requirements.
+Make sure to adjust any necessary paths or parameters in the code files to suit your specific requirements.
 
 
 ## Contact
