@@ -31,9 +31,25 @@ The notebook goes through the steps of loading the data correctly, adding data a
 To run the code in this repository, the following software and libraries are required:
 
 MATLAB (version R2022a or higher)\
-Python (version 3.8.10 or higher)\
-Python libraries:\
-[List the required Python libraries along with their versions]
+Python (version 3.8.10 or higher)
+
+**Python libraries:**\
+* fastAI (v2.7.10)
+* fastMONAI (v0.3.0)
+* jupyter (v1.0.0)
+* nibabel (v4.0.2)
+* pandas (v1.5.2)
+* nnumpy (v1.23.5)
+* pip (v20.0.2)
+* pickleshare (v0.7.5)
+* SimpleIKT (v2.2.0)
+* Simplejson (v3.16.0)
+* torch (v1.13.0)
+* torchmetrics (v0.11.0)
+* torchvision (v0.14.0)
+
+The training of the U-Net should preferably be run on a **GPU** for less training.\
+For this project the code was run on the GPU: Alienware Nvidia 1080 GTX
 
 
 ## Usage
@@ -48,12 +64,13 @@ Install the required dependencies mentioned in the Requirements section.
 
 Explore the different folders based on your requirements:
 
-MATLAB scripts: Execute the MATLAB scripts using MATLAB software.\
-Validation Pipeline: Run the validation pipeline by executing the relevant script.\
-Testing Pipeline: Run the testing pipeline by executing the relevant script.\
-Visualizations: Execute the visualization scripts to generate visual representations.\
-U-Net: Utilize the U-Net implementation for [provide instructions or examples on how to use the U-Net model].\
-nnU-Net Utils: Use the utility functions and scripts provided to enhance your nnU-Net workflows.\
+**MATLAB scripts:** Execute the MATLAB scripts using MATLAB software.\
+**Validation Pipeline:** Run the validation pipeline by executing the relevant script.\
+**Testing Pipeline:** Run the testing pipeline by executing the relevant script.\
+**Visualizations:** Execute the visualization scripts to generate visual representations.\
+**U-Net:** Utilize the U-Net implementation for [provide instructions or examples on how to use the U-Net model].\
+**nnU-Net Utils:** Use the utility functions and scripts provided to enhance your nnU-Net workflows.
+
 Make sure to adjust any necessary configurations or parameters in the code files to suit your specific requirements.
 
 
