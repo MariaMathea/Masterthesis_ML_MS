@@ -10,7 +10,7 @@ The code residing in this repository is mostly functions that have been made for
 - [Contact](#contact)
 
 
-## Repository Structure
+## Repository structure
 The code in this repository is organized into the following six folders:
 
 **MATLAB scripts:** This folder contains MATLAB scripts that are used for working with the binary lesions. These scripts are primarily used for either calculating how many small lesions are within a binary image or for removing lesions of different sizes from an image. It also contains scripts that calculate the mean totall lesion volume and mean number of lesions in a dataset.
