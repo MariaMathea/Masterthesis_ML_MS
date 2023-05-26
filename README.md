@@ -1,5 +1,5 @@
 # Master's Thesis Repository
-A repository containing the code made during the master's thesis project titled "Machine Learning in Automated Segmentation of Small Lesions in Magnetic Resonance Imaging for Multiple Sclerosis". The project involves using different machine learning approaches to automatically segment small multiple sclerosis lesions. Most of the models and algorithms used during the project have their own repositories/download requirements and will not be listed here.
+A repository containing the code made during the master's thesis project titled **"Machine Learning in Automated Segmentation of Small Lesions in Magnetic Resonance Imaging for Multiple Sclerosis"**. The project involves using different machine learning approaches to automatically segment small multiple sclerosis lesions. Most of the models and algorithms used during the project have their own repositories/download requirements and will not be listed here.
 
 The code residing in this repository is mostly functions that have been made for tasks performed before or after aquiring the model segmentations. The only exeption to this is the code made for the U-Net, and the nnU-Net utils that contain multiple functions that had to be used on the project dataset for it to be in the correct format for the nnU-Net to run, as well as aquire the probability maps.
 
