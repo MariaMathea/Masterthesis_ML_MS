@@ -57,9 +57,9 @@ To use the code in this repository, follow the instructions below:
 
 Clone this repository to your local machine using the following command:
 
-bash
-Copy code
+```shell
 git clone https://github.com/MariaMathea/Masterthesis_ML_MS.git
+```
 
 Install the required dependencies mentioned in the Requirements section.
 
